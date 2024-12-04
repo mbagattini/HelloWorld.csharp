@@ -9,3 +9,27 @@ Some important notes:
 2. System is redundant, it's there to keep up with the metric
 3. Due to the different behavior of the `Lenght` property on the `String` class, I opted for an invokable method instead, using `.Trim()`
 4. The thrown exception, although similar to the original one, is instead a `NullReferenceException`
+
+## Usage
+
+Once you run the program, you will see the following output:
+
+```
+Hello World Programmer Start
+Hello World!
+Hello World!
+Hello World!
+Hello World!
+Program Finished!
+Unhandled exception. System.NullReferenceException: Object reference not set to an instance of an object.
+   at it.Nanowar.OfSteel.HelloWorld.HelloWorldMainLauncherClass.FalseMethod() in C:\Dev\HelloWorld.csharp\Class1.cs:line 49
+   at it.Nanowar.OfSteel.HelloWorld.HelloWorldMainLauncherClass.Main(String[] args) in C:\Dev\HelloWorld.csharp\Class1.cs:line 33
+```
+
+# License
+
+I don't actually know how it works, don't sue me.
+
+# Contributing
+
+Feel free to fork this repository, submit issues, or open pull requests if you'd like to improve this code. Contributions are always welcome!
