@@ -2,7 +2,7 @@
 
 ![thumbnail](./Thumbnail.jpeg)
 
-Welcome to the converted version of the first **Nanowar Of Steel** GitHub project. This revised repository is aimed to all those programmers out there who indentify themselves as C# developers.
+Welcome to the converted version of the first **Nanowar Of Steel** [GitHub project](https://github.com/NanowarOfSteel/HelloWorld). This revised repository is aimed to all those programmers out there who indentify themselves as C# developers.
 
 Some important notes:
 1. To maintain the song sorce code as close as possible to the original, I mixed common C# conventions with those adopted in the java version: the `foo` property should have been `_foo`, but in my personal opinion it would have make the song unsingable
